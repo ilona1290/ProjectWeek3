@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuizWeek3.App\QuizWeek3.App.csproj" />
+    <ProjectReference Include="..\QuizWeek3.Domain\QuizWeek3.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\bin\Debug\netstandard2.0\QuizWeek3.Domain.deps.json
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\bin\Debug\netstandard2.0\QuizWeek3.Domain.dll
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\bin\Debug\netstandard2.0\QuizWeek3.Domain.pdb
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\obj\Debug\netstandard2.0\QuizWeek3.Domain.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\obj\Debug\netstandard2.0\QuizWeek3.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\obj\Debug\netstandard2.0\QuizWeek3.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\obj\Debug\netstandard2.0\QuizWeek3.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\obj\Debug\netstandard2.0\QuizWeek3.Domain.dll
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3.Domain\obj\Debug\netstandard2.0\QuizWeek3.Domain.pdb

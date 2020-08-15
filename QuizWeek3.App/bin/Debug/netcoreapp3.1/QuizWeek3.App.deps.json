@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuizWeek3.App/1.0.0": {
+        "dependencies": {
+          "QuizWeek3.Domain": "1.0.0"
+        },
+        "runtime": {
+          "QuizWeek3.App.dll": {}
+        }
+      },
+      "QuizWeek3.Domain/1.0.0": {
+        "runtime": {
+          "QuizWeek3.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizWeek3.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizWeek3.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
